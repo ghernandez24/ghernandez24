@@ -1,6 +1,6 @@
 <p align='center'> <img src='https://user-images.githubusercontent.com/78124561/114727679-6a171c80-9d0c-11eb-959f-902201c35ba8.png'></p>
 
-<h1 align="center">Hi 👋, I'm Guillermo</h1><h3 align="center">Passionate FullStack developer looking to elevate my coding inuition</h3>
+<h1 align="center">Hi 👋, I'm Guillermo</h1><h3 align="center">Passionate FullStack developer looking to elevate my coding inuition💻</h3>
 
 - 🌱 I’m currently learning **Django and python**
 - I have created a few applications.
