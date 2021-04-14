@@ -9,8 +9,6 @@
 <a href="https://pacific-atoll-09906.herokuapp.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78124561/114734372-26271600-9d12-11eb-8884-8e50cae016d9.png" alt="hound_logo" height="60" width="70" />Hound</a>
 <a href="project-muddler.herokuapp.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78124561/114733165-1eb33d00-9d11-11eb-91fa-55e399333508.png" alt="bar_logo" height="60" width="70" />Muddlr</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghernandez24" alt="ghernandez24" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/guillermo_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guillermo_code" height="30" width="40" /></a>
